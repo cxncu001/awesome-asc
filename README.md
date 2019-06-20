@@ -6,13 +6,13 @@ Papers for Aspect-level Sentiment Classification
 -[Deep Learning for Sentiment Analysis : A Survey (2018)](https://arxiv.org/abs/1801.07883)
 
 
--[Transformation Networks for Target-Oriented Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1087/) [Code]()
+-[Transformation Networks for Target-Oriented Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1087/), [Code]()
 
 Motivation:
 
 Conclusions:
 
--[Target-Sensitive Memory Networks for Aspect Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1088/)
+-[Target-Sensitive Memory Networks for Aspect Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1088/),
 [Code]()
 
 Motivation:
