@@ -8,16 +8,10 @@
 
 -[Transformation Networks for Target-Oriented Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1087/), [Code]()
 
-Motivation:
-
-Conclusions:
 
 -[Target-Sensitive Memory Networks for Aspect Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1088/),
 [Code]()
 
-Motivation:
-
-Conclusions:
 
 ## Data
 
