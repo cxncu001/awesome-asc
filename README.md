@@ -6,6 +6,12 @@
 - [Deep Learning for Sentiment Analysis : A Survey (2018)](https://arxiv.org/abs/1801.07883)
 
 
+- [Context-aware Embedding for Targeted Aspect-based Sentiment Analysis (ACL 2019)](http://arxiv.org/abs/1906.06945)
+
+
+- [Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification (ACL 2019)](http://arxiv.org/abs/1906.03820)
+
+
 - [Transformation Networks for Target-Oriented Sentiment Classification (ACL 2018)](https://aclweb.org/anthology/papers/P/P18/P18-1087/), [Code]()
 
 
