@@ -31,6 +31,6 @@ To be continued ...
 
 
 ## Results
-Model          | Results reported in papers  | Our Results
-------------   | -------------               | -------------
-XXX            | XXX                         | XXX
+Model          | Results reported in papers 
+------------   | -------------              
+XXX            | XXX                       
