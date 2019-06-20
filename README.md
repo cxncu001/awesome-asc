@@ -15,7 +15,7 @@
 - Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification (ACL 2019). [Paper](http://arxiv.org/abs/1906.03820)
 
 
-- Aspect Based Sentiment Analysis with Gated Convolutional Networks (ACL 2018). [Paper](https://arxiv.org/abs/1805.07043)
+- Aspect Based Sentiment Analysis with Gated Convolutional Networks (ACL 2018). [Paper](https://arxiv.org/abs/1805.07043), [Code](https://github.com/wxue004cs/GCAE)
 
 
 - Transformation Networks for Target-Oriented Sentiment Classification (ACL 2018). [Paper](https://aclweb.org/anthology/papers/P/P18/P18-1087/), [Code]()
