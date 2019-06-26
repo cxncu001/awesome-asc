@@ -1,5 +1,10 @@
-# Awesome for Aspect-level Sentiment Classification
-## Papers
+# Awesome for Sentiment Classification
+
+## Document-level Sentiment Classification
+
+## Sentence-level Sentiment Classification
+
+## Aspect-level Sentiment Classification
 
 - Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision and Challenges (IEEE Access 2019). [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8726353) 
 
