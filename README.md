@@ -15,6 +15,9 @@
 - Deep Learning for Sentiment Analysis : A Survey (2018). [Paper](https://arxiv.org/abs/1801.07883)
 
 
+- DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction (ACL 2019). [Paper]()
+
+
 - A Unified Model for Opinion Target Extraction and Target Sentiment Prediction (AAAI 2019). [Paper](https://arxiv.org/abs/1811.05082)
 
 
