@@ -32,6 +32,9 @@
 
 - Target-Sensitive Memory Networks for Aspect Sentiment Classification (ACL 2018). [Paper](https://aclweb.org/anthology/papers/P/P18/P18-1088/), [Code]()
 
+Six methods for modeling target-context sentiment interaction.
+
+Decomple different functioning components with different representations, for example, the same set of vector representations is used for multiple purposes (to learn context representations and capture the interplay between contexts and aspects).
 
 ## Data
 
