@@ -1,12 +1,5 @@
 # Awesome for Sentiment Classification
 
-## Document-level Sentiment Classification
-
--
-
-## Sentence-level Sentiment Classification
-
--
 
 ## Aspect-level Sentiment Classification
 
@@ -38,6 +31,16 @@
    - Six methods for modeling target-context sentiment interaction.
 
    - Decomple different functioning components with different representations, for example, the same set of vector representations is used for multiple purposes (to learn context representations and capture the interplay between contexts and aspects).
+
+
+## Document-level Sentiment Classification
+
+-
+
+## Sentence-level Sentiment Classification
+
+-
+
 
 ## Data
 
