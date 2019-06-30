@@ -33,6 +33,8 @@
    - Decomple different functioning components with different representations, for example, the same set of vector representations is used for multiple purposes (to learn context representations and capture the interplay between contexts and aspects).
 
 
+- Recurrent Attention Network on Memory for Aspect Sentiment Analysis (EMNLP 2017). [Paper]()
+
 ## Document-level Sentiment Classification
 
 -
