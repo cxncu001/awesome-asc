@@ -43,7 +43,7 @@
 
 ## Document-level Sentiment Classification
 
--
+- Document Modeling with Gated Recurrent Neural Network for Sentiment Classification (EMNLP 2015). [Paper]
 
 ## Sentence-level Sentiment Classification
 
