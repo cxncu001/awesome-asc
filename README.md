@@ -8,6 +8,9 @@
 - Deep Learning for Sentiment Analysis : A Survey (2018). [Paper](https://arxiv.org/abs/1801.07883)
 
 
+- An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis (ACL 2019). [Paper]()
+
+
 - DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction (ACL 2019). [Paper]()
 
 
