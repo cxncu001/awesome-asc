@@ -8,6 +8,8 @@
 - Deep Learning for Sentiment Analysis : A Survey (2018). [Paper](https://arxiv.org/abs/1801.07883)
 
 
+- Sentiment Tagging with Partial Labels using Modular Architectures (ACL 2019). [Paper]()
+
 - An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis (ACL 2019). [Paper]()
 
 
