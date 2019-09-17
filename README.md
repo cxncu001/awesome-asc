@@ -1,4 +1,4 @@
-# Awesome for Sentiment Classification
+# Awesome for Sentiment Analysis
 
 ## Tutorail
 
