@@ -1,25 +1,20 @@
 # Awesome for Sentiment Classification
 
-
-## Aspect-level Sentiment Classification
+## Tutorail
 
 - Deep Learning for Aspect-Level Sentiment Classification: Survey, Vision and Challenges (IEEE Access 2019). [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8726353) 
 
 - Deep Learning for Sentiment Analysis : A Survey (2018). [Paper](https://arxiv.org/abs/1801.07883)
 
 
+## Aspect/Target Extraction
+
 - Sentiment Tagging with Partial Labels using Modular Architectures (ACL 2019). [Paper]()
 
 - An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis (ACL 2019). [Paper]()
 
 
-- Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis (ACL 2019). [Paper]()
-
-
 - DOER: Dual Cross-Shared RNN for Aspect Term-Polarity Co-Extraction (ACL 2019). [Paper]()
-
-
-- A Unified Model for Opinion Target Extraction and Target Sentiment Prediction (AAAI 2019). [Paper](https://arxiv.org/abs/1811.05082)
 
 
 - Context-aware Embedding for Targeted Aspect-based Sentiment Analysis (ACL 2019). [Paper](http://arxiv.org/abs/1906.06945)
@@ -43,13 +38,22 @@
 
 - Recurrent Attention Network on Memory for Aspect Sentiment Analysis (EMNLP 2017). [Paper]()
 
-## Document-level Sentiment Classification
+## Aspect/Target Sentiment Classification
+
+- Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis (ACL 2019). [Paper]()
+
+## Joint Aspect/Target Eatraction and Classification
+
+- A Unified Model for Opinion Target Extraction and Target Sentiment Prediction (AAAI 2019). [Paper](https://arxiv.org/abs/1811.05082) 
+
+
+## Emotion-Cause Pair Extraction
+
+- Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts  (ACL 2019). [Paper]()
+
+## Sentence-/Document-level Sentiment Classification
 
 - Document Modeling with Gated Recurrent Neural Network for Sentiment Classification (EMNLP 2015). [Paper]()
-
-## Sentence-level Sentiment Classification
-
--
 
 
 ## Data
